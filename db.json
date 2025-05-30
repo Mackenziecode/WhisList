@@ -1,0 +1,41 @@
+{
+  "wishlists": [
+    {
+      "id": "74ae",
+      "title": "tuyi",
+      "image": null,
+      "items": [
+        {
+          "title": "uhuhuhuhuh",
+          "image": "http://res.cloudinary.com/dvbzyltiy/image/upload/v1748569047/sqddyfnutpasyzzeh4zk.jpg",
+          "description": "tu razaaaaaaaaaaaaaaa",
+          "status": "To Order",
+          "price": "14",
+          "priority": "High",
+          "purchaseUrl": "https://www.amazon.es/M-ROSENFELD-Cachimba-acero-inoxidable/dp/B0892NQ161/ref=sr_1_1?dib=eyJ2IjoiMSJ9.7XdCGmIy9QGTIeUJurQhxrFtkFSQJFfQYSVyoOdxyohpUMBECmR_4FD3KDlb76VYDXrzzntAhgBJUdunERVJpilt279JreIa5NWEvQLdLlSJ7F-IqXFrjVrDy664oWFOZ6AoH4_eZ-WgKxMvzHCZkiSrad-aC8FBp6sJx1yY9larNHzwB8_Z3yE-uPnqlpJ8FQimjNVtnPIrUBEfBtAM3ZMKj-yKd_TVfN1foO0rMF2A0G9YmO94iQTAQdcBLcbOk0nfORaUKsn43LwYxvNxpFqQA2otk-j9vLSTlY_4RyM.wN7mj4TKzK_3H_t7pgSr5_yUrV2Kfa2PjY7qn_Pz9YQ&dib_tag=se&keywords=shisha&qid=1748569124&sr=8-1&th=1",
+          "id": 36280
+        },
+        {
+          "title": "uuuuuu",
+          "image": "http://res.cloudinary.com/dvbzyltiy/image/upload/v1748569295/tjmhnhu2o9rjihm5s0b7.jpg",
+          "description": "https://www.ferrari.com/es-ES/auto/166-inter-sport",
+          "status": "Available",
+          "price": "200000",
+          "priority": "Low",
+          "purchaseUrl": "",
+          "id": 40146
+        },
+        {
+          "title": "qqqqqqqqqqqqqqqqqqqq",
+          "image": null,
+          "description": "pppppppppppppppppppppppppp",
+          "status": "Available",
+          "price": "2",
+          "priority": "Low",
+          "purchaseUrl": "https://www.aliexpress.com/ssr/300000444/GSDWp3p6aC?disableNav=YES&pha_manifest=ssr&_immersiveMode=true&productIds=1005006749040149",
+          "id": 88085
+        }
+      ]
+    }
+  ]
+}
