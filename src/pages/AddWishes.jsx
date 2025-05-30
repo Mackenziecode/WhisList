@@ -46,7 +46,7 @@ export function AddWishes() {
     const handleSubmit = async (e) => {
         e.preventDefault();
 
-        console.log("este es", id)
+        //console.log("este es", id)//
         if (!title.trim()) {
             setError("El título es obligatorio");
             return;

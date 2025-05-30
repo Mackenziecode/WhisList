@@ -5,7 +5,7 @@ import { FaClipboardList, FaTrash } from "react-icons/fa6";
 export function WishCard({wish, onDelete }) {
     const {id} = useParams();
 
-    console.log(wish)
+   // console.log(wish) //
 
 const handleDelete = async () => {
     try {

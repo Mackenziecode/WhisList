@@ -14,12 +14,12 @@ export function WishCardDetails(){
             try {
                 setLoading(true);
                 const data = await getWishlists();
-                console.log(data)
+                //console.log(data)
                 const allArticles = data.flatMap(deseo => deseo.items)
                 const wishy = allArticles.find(item => item.id == id)
                 setWish(wishy || {})
             } catch (err){
-                console.log(err)
+                //console.log(err)
             } finally {
                 setLoading(false);
             }

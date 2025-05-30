@@ -14,10 +14,10 @@ export function Home() {
 
             try {
                 const data = await getWishlists();
-                console.log(data)
+                //console.log(data)//
                 setWishlists(data)
             } catch (err){
-                console.log(err)
+                //console.log(err)//
             }
         }
         loadWishlists();
